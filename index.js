@@ -3,7 +3,7 @@
 const express = require('express');
   
 /* Cria uma aplicação Express . 
-     a função express() é um nivel superior 
+   a função express() é um nivel superior 
    Função exportada pelo express module.
 */
 const app = express();

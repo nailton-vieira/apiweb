@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/nailton-vieira/apiweb/issues"
   },
-  "homepage": "https://github.com/nailton-vieira/apiweb#readme"
+  "homepage": "https://github.com/nailton-vieira/apiweb#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.11.5"
+  }
 }
