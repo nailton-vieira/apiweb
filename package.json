@@ -1,0 +1,19 @@
+{
+  "name": "apiweb",
+  "version": "1.0.0",
+  "description": "Minha primerira API WEB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nailton-vieira/apiweb.git"
+  },
+  "author": "Nailton Vieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nailton-vieira/apiweb/issues"
+  },
+  "homepage": "https://github.com/nailton-vieira/apiweb#readme"
+}
